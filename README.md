@@ -1,8 +1,8 @@
 ## Olá, eu sou a Emilia 🖖
 
 - 💻 Estou Cursando o 1 semestre em Analise e desenvolvimento de sistemas.
-- 📖 Estudante Front-End, com foco em HTML, CSS e Java 
-- 📚 Estusiata de tecnologias retrô e desenvolvimentos de jogos eletrônicos
+- 📖 Estudante Front-End, com foco em HTML, CSS e Java.
+- 📚 Entusiata de tecnologias retrô e desenvolvimentos de jogos eletrônicos.
 
  <div>
   <a href= "https://www.linkedin.com/in/emilia-gabrielly-5431b51b9/">
