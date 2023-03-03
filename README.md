@@ -1,7 +1,7 @@
 ## Olá, eu sou a Emilia 🖖
 
 - 💻 Estou Cursando o 1 semestre em Analise e desenvolvimento de sistemas.
-- 📖 Estudante Front-End, com foco em HTML, CSS e Java.
+- 📖 Estudante Front-End, com foco em HTML, CSS e JS.
 - 📚 Entusiata de tecnologias retrô e desenvolvimentos de jogos eletrônicos.
 
  <div>
