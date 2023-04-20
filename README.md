@@ -2,6 +2,7 @@
 
 - 📖 Mobile.
 - 📚 Entusiata de tecnologias retrô e desenvolvimentos de jogos eletrônicos.
+- 🌺 voltado a estudo e testes 
 
  <div>
   <a href= "https://www.linkedin.com/in/emilia-gabrielly-5431b51b9/">
