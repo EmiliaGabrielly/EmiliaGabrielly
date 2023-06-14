@@ -12,9 +12,9 @@
   ## Tecnologias que estudo 📙
   <div style="display: inline_block"><br>
     <img align="center" alt="emilia-Dart" height="30" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original-wordmark.svg" />
-    <img align="center" alt="emilia-fluttter" height="30" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
-    <img align="center" alt="emilia-css" height="30" width="40" img src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
-    <img align="center" alt="emilia-js" height="30" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+    <img align="center" alt="emilia-fluttter" height="30" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" / >
+ 
+   <img align="center" alt="emilia-js" height="30" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
     <img align="center" alt="emilia-Java" heigth="30" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />       
    </div>
   
@@ -23,6 +23,5 @@
   <div>
     <a href= "https://www.linkedin.com/in/emilia-gabrielly-5431b51b9/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
    
-    < a  href = " https://instagram.com/uni_gata?igshid=YmMyMTA2M2Y= "  target = "_blank" >< img  src = " https://img.shields.io/badge/-Instagram-%23E4405F?style =for-the-badge&logo=instagram&logoColor=white "  target = "_blank" ></ >
      
   </div>
