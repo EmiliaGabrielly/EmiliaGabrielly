@@ -22,7 +22,7 @@
    
   <div>
     <a href= "https://www.linkedin.com/in/emilia-gabrielly-5431b51b9/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-    a href=       target="blank><img src=<i class="devicon-github-original colored"></i>
-    <a href="https://instagram.com/uni_gata?igshid=YmMyMTA2M2Y=" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+   
+    < a  href = " https://instagram.com/uni_gata?igshid=YmMyMTA2M2Y= "  target = "_blank" >< img  src = " https://img.shields.io/badge/-Instagram-%23E4405F?style =for-the-badge&logo=instagram&logoColor=white "  target = "_blank" ></ >
      
   </div>
